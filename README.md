@@ -19,7 +19,9 @@
 （1）下载sdk开发包
 
 （2）下载 在目录中找到SDK manger.exe的应用程序 点击运行
+![image.png](https://upload-images.jianshu.io/upload_images/9443754-a68f0677e148fc58.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![image.png](https://upload-images.jianshu.io/upload_images/9443754-03b23d6af2cfddf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 配置unity环境
 1. 启动unity 打开edit 在下滑栏中找到 preferences
