@@ -1,8 +1,10 @@
 # 安卓apk文件制作步骤
 ## 安装环境
 ### 1.1 安装java
-下载Java 安装到所选路径 同时记住路径 
+下载Java安装到选定路径同时记住路径 
 
+！[image.png] （https://upload-images.jianshu.io/upload_images/9443754-517383a890d58d8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240）
+（0）
 配置环境变量
 
 在控制面板中打开环境变量或者是在电脑属性中打开
